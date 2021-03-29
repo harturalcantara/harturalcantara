@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Student of the Computer Science course at the Federal University of Ceará (Campus Crateús), passionate about learning and developing in the area that involves technology. Currently, focusing on topics related to back-end development, front-end web and mobile applications, but following in stages, to become a Full-Stack Developer, then a Software Engineer and of course a Computer Scientist.
+
+
 <!--
 **harturalcantara/harturalcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
