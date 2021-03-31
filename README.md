@@ -2,7 +2,13 @@
 
 Student of the Computer Science course at the Federal University of Ceará (Campus Crateús), passionate about learning and developing in the area that involves technology. Currently, focusing on topics related to back-end development, front-end web and mobile applications, but following in stages, to become a Full-Stack Developer, then a Software Engineer and of course a Computer Scientist.
 
-### 👥 Redes Sociais:
+### Tools
+![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 👥 Social media
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/harturalcantara)
 [![Facebook](https://img.shields.io/static/v1?label=&message=Facebook%20&color=0078FF&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/harturalcantara)
@@ -18,7 +24,7 @@ Student of the Computer Science course at the Federal University of Ceará (Camp
 <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturalcantara&langs_count=6&theme=black&layout=compact" />
 </p>
 
-### 💬 Contatos:
+### 💬 Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harturalcantara)](mailto:harturalcantaradeveloper@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram%20&color=0088cc&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/harturalcantaradeveloper)
