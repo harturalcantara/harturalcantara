@@ -1,9 +1,11 @@
 <h1 align="center"> Hi there! 👋👨‍💻 <h1/>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  
 ### About me
 
 Student of the Computer Science course at the Federal University of Ceará (Campus Crateús), passionate about learning and developing in the area that involves technology. Currently, focusing on topics related to back-end development, front-end web and mobile applications, but following in stages, to become a Full-Stack Developer, then a Software Engineer and of course a Computer Scientist.
 
+<br/><br/>
 
 ### Tecnologies
 
@@ -30,6 +32,8 @@ Student of the Computer Science course at the Federal University of Ceará (Camp
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram%20&color=FF007F&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/harturalcantara/)
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/harturalcantara)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UCQgb6C7n4UZW-UipCfWZRmg/featured)
+
+### Status Github
 
 <p align="center">
   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&theme=yellow&show_icons=true" />
