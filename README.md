@@ -19,6 +19,7 @@ Student of the Computer Science course at the Federal University of Ceará (Camp
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 </br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,32 +31,25 @@ Student of the Computer Science course at the Federal University of Ceará (Camp
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### Tools
+<h3> Tools </h3>
 
 ![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Social media
+<h3> Social media </h3>
 
 <p align="left">
   <a href="https://www.instagram.com/harturalcantara/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/harturalcantara/"/></a>
-  
   <a href="https://www.linkedin.com/in/harturalcantara" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harturalcantara" /></a>
-
   <a href="https://www.facebook.com/harturalcantara" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harturalcantara"/></a>
 </p>
 
-</br>
-
-[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/harturalcantara)
-[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UCQgb6C7n4UZW-UipCfWZRmg/featured)
-
-### Status Github
+<h3> Status Github </h3>
 
 <p align="center">
   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&theme=yellow&show_icons=true" />
@@ -64,7 +58,7 @@ Student of the Computer Science course at the Federal University of Ceará (Camp
   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturalcantara&langs_count=6&theme=black&layout=compact" />
 </p>
 
-### Contacts
+<h3> Contact me </h3>
 
 <a href = "mailto:harturalcantaradeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram%20&color=0088cc&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/harturalcantaradeveloper)
+
