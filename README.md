@@ -1,16 +1,12 @@
 <h1 align="center"> Hi there! </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="380px" width="400px" align="right" alt="">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="360px" align="right" alt="">
   
 ## About me 
 
 <p align="justify"> 
 Student of the Computer Science course at the Federal University of Ceará (Campus Crateús), passionate about learning and developing in the area involving technology. Currently focusing on topics related to back-end, front-end web and mobile application development. Taking steps to become a great Software Developer, then become an excellent Software Engineer.
 </p>
-
-<br/>
-<br/>
-
 
 ### Tools
 
