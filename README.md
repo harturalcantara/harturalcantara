@@ -5,7 +5,7 @@
 ## About me 
 
 <p align="justify"> 
-Student of the Computer Science course at the Federal University of Ceará (Campus Crateús), passionate about learning and developing in the area involving technology. Currently focusing on topics related to back-end, front-end web and mobile application development. Taking steps to become a great Software Developer, then become an excellent Software Engineer.
+Student of the Computer Science course at the Federal University of Ceará, passionate about learning and developing in the area involving technology. Currently focusing on topics related to back-end, front-end web and mobile application development. Taking steps to become a great Software Developer, then become an excellent Software Engineer.
 </p>
 
 ### Tools
