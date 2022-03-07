@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! </h1>
 
-<img src="./images/developer.svg" align="right" width="350" height="320" />
+<img src="./images/developer.svg" align="right" width="350" height="300" />
   
 ## About me 
 
