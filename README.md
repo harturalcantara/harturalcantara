@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="360px" align="right" alt="">
+<img src="./images/developer.svg" align="right" width="350" height="320" />
   
 ## About me 
 
@@ -22,7 +22,7 @@ Student of the Computer Science course at the Federal University of Ceará, pass
   <a href="https://www.twitch.tv/harturalcantara" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/harturalcantara" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harturalcantara"/></a>
-  <a href="https://discord.gg/ABw4UMrXXN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/StVKSSqbnD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harturalcantara" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harturalcantara" /></a>
 </p>
