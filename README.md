@@ -5,7 +5,7 @@
 ## About me 
 
 <p align="justify"> 
-Student of the Computer Science course at the Federal University of Ceará, passionate about learning and developing in the area that involves technology. Currently focusing on topics related to backend, web frontend and mobile app development. Taking steps to become an excellent Software Engineer.
+Taking steps to become an excellent Software Engineer.
 </p>
 
 ### Tools
