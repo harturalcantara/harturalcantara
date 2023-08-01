@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harturalcantara" alt="harturalcantara" /> </p>
 <img src="./images/developer.svg" align="right" width="350" height="300" />
   
 ## About me 
