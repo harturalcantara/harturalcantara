@@ -65,9 +65,6 @@ Passionate about continuous learning and growth in the dynamic field of technolo
 
 <div>
   <a href = "mailto:harturalcantara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-  <a href="https://t.me/harturalcantara" alt="Telegram"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/harturalcantara" /></a>
-  <a href="https://api.whatsapp.com/send/?phone=5588996655472" alt="WhatsApp"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5588996655472"/ </a>
-  <a href="https://t.me/harturalcantara" alt="Telegram"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&link=https://t.me/harturalcantara" /></a>
   
   <img align="right" src="https://komarev.com/ghpvc/?username=harturalcantara&style=for-the-badge" alt="harturalcantara" />
 </div>
