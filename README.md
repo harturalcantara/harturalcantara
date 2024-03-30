@@ -5,7 +5,7 @@
 ### About me 
 
 <p align="justify">
-Passionate about continuous learning and growth in the dynamic field of technology. Currently, my focus is on honing my skills in backend, web frontend, and mobile app development. Taking steps to become an excellent Software Engineer.
+I am constantly honing my skills in design, algorithms, and data structures to tackle challenges efficiently, with a focus on problem-solving. Additionally, I actively apply my knowledge in practical projects, seeking opportunities to collaborate on challenging initiatives that demand creativity, logical reasoning, and an analytical approach.
 
 </p>
 
@@ -49,7 +49,7 @@ Passionate about continuous learning and growth in the dynamic field of technolo
   <!-- <a href="https://discord.gg/StVKSSqbnD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/harturalcantara" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harturalcantara" /></a>
   <a href="https://www.linkedin.com/in/harturalcantara" alt="Linkedin"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.medium.com/in/harturalcantara" /></a>
-  <a href="https://www.linkedin.com/in/harturalcantara" alt="Linkedin"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://www.medium.com/in/harturalcantara" /></a> -->
+  <a href="https://www.linkedin.com/in/harturalcantara" alt="Linkedin"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://www.medium.com/in/harturalcantara" /></a>
 
 </p>
 
