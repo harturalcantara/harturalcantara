@@ -15,7 +15,7 @@ I am constantly honing my skills in design, algorithms, and data structures to t
 
 ![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<!--
 ### Skill tecnologies
 
 <p align="left">
@@ -36,6 +36,16 @@ I am constantly honing my skills in design, algorithms, and data structures to t
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
+-->
+
+
+### Status Github
+
+<div align="center">
+  <a href="https://github.com/harturalcantara/">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturalcantara&layout=compact&langs_count=14&theme=algolia"/>
+</div>
 
 ### Social medias
 
@@ -53,15 +63,7 @@ I am constantly honing my skills in design, algorithms, and data structures to t
 
 </p>
 
-### Status Github
-
-<div align="center">
-  <a href="https://github.com/harturalcantara/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturalcantara&layout=compact&langs_count=14&theme=algolia"/>
-</div>
-  
-### Contact me or in my social medias
+### Contact me directly
 
 <div>
   <a href = "mailto:harturalcantara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
