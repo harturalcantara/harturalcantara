@@ -44,7 +44,7 @@ I am constantly honing my skills in design, algorithms, and data structures to t
 <div align="center">
   <a href="https://github.com/harturalcantara/">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturalcantara&layout=compact&langs_count=14&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturalcantara&layout=compact&langs_count=10&theme=algolia"/>
 </div>
 
 ### Social medias
