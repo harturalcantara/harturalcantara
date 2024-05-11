@@ -20,9 +20,10 @@
 <br>
 
 ### Status Github
+
 <div align="center" style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harturalcantara&theme=algolia&show_icons=true" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harturalcantara&theme=algolia" alt="GitHub Streak" alt="stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&theme=algolia&show_icons=true" /> 
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=harturalcantara&theme=algolia" alt="GitHub Streak" alt="stats" />
 </div>
 
 ### Contact me
