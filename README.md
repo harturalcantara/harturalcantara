@@ -20,9 +20,9 @@ I am a dedicated and innovative software engineer with a strong passion for crea
 
 ### Status Github
 
-<div align="center" style="display: flex;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=harturalcantara&theme=algolia&show_icons=true" /> 
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=harturalcantara&theme=algolia" alt="GitHub Streak" alt="stats" />
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harturalcantara&theme=algolia&show_icons=true" alt="GitHub Stats - harturalcantara" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harturalcantara&theme=algolia" alt="GitHub Streak - harturalcantara" style="max-width: 100%; height: auto;">
 </div>
 
 ### Contact me
